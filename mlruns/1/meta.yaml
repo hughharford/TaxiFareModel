@@ -1,0 +1,4 @@
+artifact_location: file:///home/hsth/code/hughharford/TaxiFareModel/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: '[UK] [London] [hughharford] LinearReg_01'

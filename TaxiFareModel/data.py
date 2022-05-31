@@ -1,7 +1,7 @@
 import pandas as pd
 
 AWS_BUCKET_PATH = '' #"s3://wagon-public-datasets/taxi-fare-train.csv"
-LOCAL_PATH = "../raw_data/train_10k.csv"
+LOCAL_PATH = "raw_data/train_10k.csv"
 
 def get_data(nrows=10_000):
     '''returns a DataFrame with nrows from s3 bucket'''

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/hsth/code/hughharford/TaxiFareModel/mlruns/1/713e399ef04c488b902e4d735be0d5bd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 713e399ef04c488b902e4d735be0d5bd
+run_uuid: 713e399ef04c488b902e4d735be0d5bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1654010466972
+status: 1
+tags: []
+user_id: unknown
